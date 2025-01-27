@@ -1,6 +1,6 @@
-# ProjetoIA
+# ProjetoIA - Previsão de Preços de Voos Utilizando Técnicas de Aprendizagem de Máquina
 
-Vou ajudar a criar um README.md bem estruturado para o projeto do GitHub.
+
 
 
 
