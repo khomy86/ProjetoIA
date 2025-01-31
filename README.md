@@ -5,11 +5,17 @@ Este projeto implementa um sistema de previsão de preços de voos utilizando t�
 
 ## Estrutura do Projeto
 
-O projeto contém os seguintes notebooks:
+O projeto contém os seguintes ficheiros:
+
+### Notebooks
 * `analise_dados.ipynb` - Análise exploratória detalhada dos dados
 * `modeltreinadonoptimizado.ipynb` - Treino inicial dos modelos
 * `modeloajustado.ipynb` - Versão otimizada dos modelos
 * `prep_dados_treino.ipynb` - Preparação dos dados para treino
+* `TreinoInacabado.ipynb` - Tentativa inicial de treino com dataset completo (interrompido devido a limitações de hardware)
+
+### Scripts Python
+* `data_filter.py` - Script de processamento paralelo para redução do dataset original de 30GB, utilizando multiprocessamento para filtragem eficiente dos dados
 
 ## Requisitos
 
@@ -33,4 +39,3 @@ O modelo Random Forest alcançou os melhores resultados:
 * Zakhar Khom'yakivskyy – 30011355
 * Ivanilson Braga – 30010789
 * Ektiandro Elizabeth - 30011479
-
