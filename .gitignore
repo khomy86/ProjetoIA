@@ -1,0 +1,10 @@
+data/
+*.csv
+*.npy
+*.npz
+
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
